@@ -21,4 +21,3 @@ def clickElement(self):
 
 def assertText(actual, expected):
     assert actual == expected
-
