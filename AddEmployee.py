@@ -4,7 +4,6 @@ import os
 import autoit
 import time
 
-
 def addEmployee():
 
     driver = NavigateAndLogin.LoginApp()
