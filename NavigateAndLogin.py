@@ -26,5 +26,3 @@ def LoginApp():
     CommonFunctions.clickElement(loginButton)
 
     return driver
-
-# LoginApp()
